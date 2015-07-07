@@ -1,0 +1,13 @@
+#current-temp{
+    font-size: 3em;
+}
+#current-summary{	
+    font-size: 2em;
+}
+#location{
+	font-size: 1.5em;
+}
+footer, .content{
+	font-family:"微软雅黑";
+    text-align: center;
+}
